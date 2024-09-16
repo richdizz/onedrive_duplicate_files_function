@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "CosmosConnectionString": "YOUR_COSMOS_CONNECTION_STRING",
+    "CosmosDatabaseName": "YOUR_COSMOS_DATABASE_NAME",
+    "CosmosCollectionName": "YOUR_COSMOS_COLLECTION_NAME"
+  }
+}
